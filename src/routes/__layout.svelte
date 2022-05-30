@@ -4,7 +4,7 @@
 </script>
 
 <header>
-  <Title title="Ninja Gaming Guides" />
+  <Title title="Ninja Gaming Guides 2" />
 </header>
 <main>
   <slot />
