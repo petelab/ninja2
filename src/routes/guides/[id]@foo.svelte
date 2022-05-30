@@ -4,6 +4,7 @@
     // test
     // test
     // test 7
+    // test 8
     const { id } = params;
 
     const res = await fetch(`https://jsonplaceholder.typicode.com/posts/${id}`);
