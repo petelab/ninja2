@@ -1,5 +1,5 @@
 <script>
-  import Title from "$lib/title.svelte";
+  import Title from "$lib/Title.svelte";
   import "../styles/global.css";
 </script>
 
