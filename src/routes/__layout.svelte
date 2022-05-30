@@ -11,7 +11,7 @@
 </main>
 
 <footer>
-  <p>Copyright 2022 Ninja Gaming Guides 2</p>
+  <p>Copyright 2022 Ninja Gaming Guides 3</p>
 </footer>
 
 <style>
