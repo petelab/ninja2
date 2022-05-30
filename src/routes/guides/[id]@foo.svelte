@@ -1,6 +1,7 @@
 <script context="module">
   export async function load({ fetch, params }) {
     // await new Promise((resolve) => setTimeout(resolve, 1000));
+    // test
     const { id } = params;
 
     const res = await fetch(`https://jsonplaceholder.typicode.com/posts/${id}`);
